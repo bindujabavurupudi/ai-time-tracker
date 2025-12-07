@@ -145,3 +145,47 @@ const app = initializeApp(firebaseConfig);
 export const auth = getAuth(app);
 export const db = getFirestore(app);
 
+Run the Development Server
+npm run dev
+
+🚀 Deployment
+
+The project is deployed using GitHub Pages.
+
+Live Link:
+https://bindujabavurupudi.github.io/ai-time-tracker
+
+🔮 Future Improvements
+
+Weekly and monthly analytics view
+
+Export analytics as PDF
+
+Dark mode
+
+AI-based time optimization suggestions
+
+Cloud sync across devices
+
+✅ Final Submission Checklist
+
+✅ GitHub Repository
+✅ Live Deployment
+✅ Firebase Authentication
+✅ Firestore Database
+✅ Analytics Dashboard
+✅ AI Tools Used
+✅ README Documentation
+✅ Video Walkthrough
+
+🙏 Acknowledgements
+
+This project was developed using:
+
+React
+
+Firebase
+
+GitHub Pages
+
+AI-assisted development tools
